@@ -84,34 +84,26 @@ body {
     align-items: center;
     color: gray;
 }
-
 .stats i {
     margin-right: 5px;
-    color: #000000;
-    
-   
+    color: #000000;   
 }
-
 .fa-youtube{
     background-color: red;
     border: 1px solid red;
     border-radius:  50%;
 padding: 5px;
 
-
 }
-.fa-twitter{
-
-    background-color: #3d9cf5;
+.fa-linkedin{
+    background-color:  #104bc1;
     border: 1px solid 3d9cf5;
     border-radius:  50%;
-padding: 6px;
+    padding: 6px;
 }
-
 .fa-instagram{
     background-color: #fa387c;
     border: 1px solid 3d9cf5;
     border-radius:  50%;
-padding: 6px;
-
+    padding: 6px;
 }
